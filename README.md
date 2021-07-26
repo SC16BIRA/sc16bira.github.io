@@ -1,1 +1,0 @@
-# sc16bira.github.io
