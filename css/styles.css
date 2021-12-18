@@ -16,7 +16,8 @@ header {
 }
 
 main {
-	width: 50%;
+	margin: auto;
+	width: 80%;
 }
 
 footer {
