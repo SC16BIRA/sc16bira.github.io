@@ -1,4 +1,9 @@
 * {
+	margin: 0rem;
+	padding: 0rem;
+}
+
+body {
 	background: #F2F2F2;
 	color: #444444;
 	line-height: 1.8;
